@@ -1,7 +1,15 @@
 Задание 1.
+```
+Объявите:
+имя (String)
+возраст (Int)
+рост в метрах (Double)
+активен ли аккаунт (Boolean)
+```
 ![img.png](screen/img.png)
 
 Задание 2.
+
 ![img_1.png](screen/img_1.png)
 
 Задание 3.
