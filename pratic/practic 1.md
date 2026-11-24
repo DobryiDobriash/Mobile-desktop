@@ -1,5 +1,6 @@
 Задача 1.
-```fun main() {
+```
+fun main() {
     val name = "Анна"
     val age = 25
     val height = 1.75
